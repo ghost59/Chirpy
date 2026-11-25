@@ -60,9 +60,6 @@ DELETE /api/chirps/{chirpID} - Delete a chirp (author only)
 
 POST /api/polka/webhooks - Upgrade user via webhook
 
+```
 
-### Tips for Making It Stand Out
 
-1. **Be Honest & Clear**: Mentioning that this is a REST API designed to back a client interface sets the right expectation immediately.
-2. **Setup Instructions Matter**: Hiring managers and other engineers should be able to look at the README and understand within 30 seconds how to run the project locally.
-3. **Keep It Scannable**: Bullet points and clear headers make it easy to digest quickly.
