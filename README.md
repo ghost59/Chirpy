@@ -31,7 +31,10 @@ DB_URL=postgres://username:password@localhost:5432/chirpy?sslmode=disable
 JWT_SECRET=your_jwt_secret_here
 POLKA_KEY=your_polka_api_key_here
 PLATFORM=dev
+
+```
 Getting Started
+
 Clone the repository:
 
 git clone https://github.com/ghost59/chirpy.git
@@ -60,6 +63,5 @@ DELETE /api/chirps/{chirpID} - Delete a chirp (author only)
 
 POST /api/polka/webhooks - Upgrade user via webhook
 
-```
 
 
