@@ -33,10 +33,10 @@ POLKA_KEY=your_polka_api_key_here
 PLATFORM=dev
 
 ```
-Getting Started
+## Getting Started
 
-Clone the repository:
-
+## Clone the repository:
+```bash
 git clone https://github.com/ghost59/chirpy.git
 cd chirpy
 
@@ -48,7 +48,9 @@ Start the server:
 
 go run .
 
-API Endpoints Overview
+```
+
+## API Endpoints Overview
 
 GET /api/healthz - Health check
 
