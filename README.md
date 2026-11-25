@@ -52,19 +52,19 @@ go run .
 
 ## API Endpoints Overview
 
--\ GET /api/healthz - Health check
+- GET /api/healthz - Health check
 
--\ POST /api/users - Register a new user
+- POST /api/users - Register a new user
 
--\POST /api/login - Authenticate and obtain tokens
+- POST /api/login - Authenticate and obtain tokens
 
--\ GET /api/chirps - List chirps (supports query parameters like author_id and sort)
+- GET /api/chirps - List chirps (supports query parameters like author_id and sort)
 
--\ POST /api/chirps - Create a new chirp (requires auth)
+- POST /api/chirps - Create a new chirp (requires auth)
 
-DELETE /api/chirps/{chirpID} - Delete a chirp (author only)
+- DELETE /api/chirps/{chirpID} - Delete a chirp (author only)
 
-POST /api/polka/webhooks - Upgrade user via webhook
+- POST /api/polka/webhooks - Upgrade user via webhook
 
 
 
