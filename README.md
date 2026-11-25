@@ -34,7 +34,7 @@ PLATFORM=dev
 Getting Started
 Clone the repository:
 
-git clone https://github.com/your-username/chirpy.git
+git clone https://github.com/ghost59/chirpy.git
 cd chirpy
 
 Run database migrations:
