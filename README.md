@@ -49,6 +49,7 @@ Start the server:
 go run .
 
 API Endpoints Overview
+
 GET /api/healthz - Health check
 
 POST /api/users - Register a new user
